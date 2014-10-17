@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxm:home|Door43 (mxm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxm|d43-mxm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxm/archive/master.zip|d43-mxm.zip]]
+
+**Recent Changes**
+{{changes>ns = mxm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxm|Ethnologue data]]
+
